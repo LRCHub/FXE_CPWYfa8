@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "slow down",
+  "base_artist": "Ame lil melo",
+  "createdAt": "2025-12-17T11:40:42.203100Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Nick Walker",
+      "has_synced": true,
+      "path": "select/01_Slow_Down_Nick_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/02_Slow_Down_Summer_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/03_Slow_Down_Summer_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/04_Slow_Down_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/05_Slow_Down_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/06_Slow_Down_múm.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slow Down Jo",
+      "artist": "Monsters of Folk",
+      "has_synced": false,
+      "path": "select/07_Slow_Down_Jo_Monsters_of_Folk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/08_Slow_Down_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slow Down Linda",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/09_Slow_Down_Linda_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_Slow_Down_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Sigma feat. Jetta",
+      "has_synced": true,
+      "path": "select/11_Slow_Down_Sigma_feat._Jetta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Slow Down",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/12_Can't_Slow_Down_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Slow Down (Album Version)",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/13_Can't_Slow_Down_(Album_Version)_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Slow Down",
+      "artist": "Mr. Mister",
+      "has_synced": true,
+      "path": "select/14_Don't_Slow_Down_Mr._Mister.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Slow Down At The Castle",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/15_Slow_Down_At_The_Castle_Saint_Etienne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "slow down (feat. LUSH CARABINER)",
+      "artist": "Ame lil melo",
+      "has_synced": false,
+      "path": "select/pl_01_slow_down_(feat._LUSH_CARABINER)_Ame_lil_melo.txt"
+    }
+  ]
+}
